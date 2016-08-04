@@ -1,0 +1,43 @@
+_repo: Memoirs--Vieux-Souvenirs--of-the-Prince-de-Joinville_5716
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Loyd, Mary, Lady
+    aliases:
+    - Loyd, Lady Mary Sophia (Hely-Hutchinson)
+    - Lloyd, Mary, Lady
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '921'
+    url: http://www.gutenberg.org/2009/agents/921
+creator:
+  author:
+    agent_name: Joinville, François-Ferdinand-Philippe-Louis-Marie d'Orléans, prince
+      de
+    aliases:
+    - Orléans, François-Ferdinand-Philippe-Louis-Marie d', prince de Joinville
+    - Joinville, prince de
+    - D'Orléans, François-Ferdinand-Philippe-Louis-Marie, prince de Joinville
+    birthdate: 1818
+    deathdate: 1900
+    gutenberg_agent_id: '1848'
+    url: http://www.gutenberg.org/2009/agents/1848
+    wikipedia: http://en.wikipedia.org/wiki/François_d'Orléans,_prince_de_Joinville
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis Philippe, 1830-1848'
+- !lcsh 'France -- History -- Restoration, 1814-1830'
+- !lcc 'DC'
+- !lcsh 'Joinville, François-Ferdinand-Philippe-Louis-Marie d''Orléans, prince de,
+  1818-1900'
+- GITenberg
+title: Memoirs (Vieux Souvenirs) of the Prince de Joinville
+url: http://www.gutenberg.org/ebooks/5716
