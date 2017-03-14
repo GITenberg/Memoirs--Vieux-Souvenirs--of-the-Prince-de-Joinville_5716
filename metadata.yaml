@@ -1,5 +1,5 @@
 _repo: Memoirs--Vieux-Souvenirs--of-the-Prince-de-Joinville_5716
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Loyd, Mary, Lady
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '921'
     url: http://www.gutenberg.org/2009/agents/921
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Joinville, François-Ferdinand-Philippe-Louis-Marie d'Orléans, prince
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1848
     wikipedia: http://en.wikipedia.org/wiki/François_d'Orléans,_prince_de_Joinville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5716#Memoirs--Vieux-Souvenirs--of-the-Prince-de-Joinville
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
